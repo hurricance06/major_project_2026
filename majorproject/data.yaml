@@ -1,0 +1,76 @@
+path: Major_Project_Dataset.v9i.coco-segmentation/dataset2
+
+train: train/images
+val: valid/images
+
+names:
+  0: items
+  1: Aloo
+  2: Aloo Dry
+  3: Aloo Gobhi
+  4: Aloo Jeera
+  5: Aloo Matar
+  6: Aloo Paratha
+  7: Aloo ShimlaMirch
+  8: Aloo Wadiyan
+  9: Amla
+  10: Arbi
+  11: Bhindi
+  12: Chana Masala
+  13: Chilli Paneer
+  14: Chole
+  15: Cocunut Chutney
+  16: Custard
+  17: Dahi
+  18: Dal
+  19: Dalia
+  20: Dhokla
+  21: Dosa
+  22: Fried Rice
+  23: Fried rice
+  24: Gravy Veg Manchurian
+  25: Gulab Jamun
+  26: Ivy Gourd Dry
+  27: Jackfruit
+  28: Kadhi
+  29: Kadhi Pakoda
+  30: Kala Chana Sabzi
+  31: Kheer
+  32: Lemon
+  33: Lemon Rice
+  34: Makki di Roti
+  35: Medu Vada
+  36: Milk
+  37: Mix Veg
+  38: Mixed Pickle
+  39: Noodles
+  40: Onion Salad
+  41: Paneer
+  42: Papad
+  43: Papaya Cubes
+  44: Paratha
+  45: Pickle Remains
+  46: Plain Bread
+  47: Poha
+  48: Pointed Gourd
+  49: Puri
+  50: Pyaaz Paratha
+  51: Raita
+  52: Rajma
+  53: Rasgulla
+  54: Rasmalai
+  55: Rice
+  56: Roti
+  57: Salad
+  58: Sambhar
+  59: Sarson da Saag
+  60: Soya Chap
+  61: Sweet Corn
+  62: Tandoori Roti
+  63: Tea
+  64: Toast
+  65: Tomato Soup
+  66: Tomato chutney
+  67: Torai
+  68: Uttapam
+  69: Watermelon Cubes

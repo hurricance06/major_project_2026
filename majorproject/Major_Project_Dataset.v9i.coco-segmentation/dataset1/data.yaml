@@ -1,0 +1,38 @@
+path: C:/Users/abhin/OneDrive/Documents/GitHub/Albumentationsx/Minor_Project_Dataset.v9i.coco-segmentation
+train: train/images
+val: valid/images
+
+names:
+  0: Rice
+  1: Roti
+  2: aloo - bhurji
+  3: Daal- Pulse
+  4: Besan - Chilla
+  5: Biryani
+  6: Bundi
+  7: Channa daal
+  8: Chilli- paneer
+  9: Chutney
+  10: Daal-pulse
+  11: gulab jamun
+  12: halwa
+  13: jalebi
+  14: Mushroom
+  15: No waste
+  16: Palak-Paneer
+  17: Paneer-bhurji
+  18: Papad
+  19: Raita
+  20: Rajma
+  21: Red - chutney
+  22: Rice with pulse
+  23: Salad - Chukundar
+  24: Salad-Mix
+  25: Salad - kheera
+  26: Salad - Onion
+  27: aloo-shimla
+  28: gajar-aloo
+  29: kadi - pakoda
+  30: papad
+  31: pudi
+  32: tea
